@@ -1,60 +1,89 @@
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Kyle Dwyer
+<a href="https://www.linkedin.com/in/kyle-e921/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072B1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-[Brief Introduction - Remove this afterwards]
+Computer Science student at Norfolk State University with a concentration in Cybersecurity. I currently work as an Information Technology Intern at Illinois Tool Works (ITW), where I support enterprise endpoint management, Active Directory administration, software deployment, and endpoint security. Previously, I worked as an Identity & Access Management Intern at Rocket Companies, supporting identity governance for over 18,500 users. I'm passionate about cybersecurity, continuous learning, and building practical security projects that strengthen my technical skills.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+---
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I'm pursuing a career in cybersecurity with interests in Cloud, Identity & Access Management (IAM), Vulnerability Management, and Incident Response. This portfolio documents my cybersecurity projects, labs, and technical growth as I continue developing hands-on experience.
+
+---
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill | Experience / Project |
+|--------|----------------------|
+| Active Directory Administration | ITW Enterprise Experience |
+| Windows Endpoint Management | ITW Enterprise Experience |
+| Endpoint Security | Rapid7 • CrowdStrike • N-able |
+| Identity & Access Management | Rocket Companies IAM |
+| Authentication Security Testing | FABA Web Security Assessment |
+| Security Risk Assessment | FABA Web Security Assessment |
+| Technical Documentation | Enterprise & Security Reporting |
+| Computer Lifecycle Management | Enterprise IT Operations |
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+---
 
-### Network
+## Technologies
+
+### Identity & Access Management
+
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/-SailPoint_IIQ-00B5E2?&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Cisco_Duo-1F5EFF?&style=for-the-badge&logo=Cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/-RBAC-5B2C6F?&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-MFA-0A66C2?&style=for-the-badge"/>
+
 </div>
 
-### Endpoint
+### Endpoint Security
+
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-CrowdStrike-E01F3D?&style=for-the-badge&logo=CrowdStrike&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Rapid7-FF6B00?&style=for-the-badge&logo=Rapid7&logoColor=white"/>
+<img src="https://img.shields.io/badge/-N--able-25C2A0?&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-PDQ_Deploy-4A90E2?&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Windows-0078D4?&style=for-the-badge&logo=Windows&logoColor=white"/>
+
 </div>
 
-### SIEM
+### Productivity & Analysis
+
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+
+<img src="https://img.shields.io/badge/-Power_BI-F2C811?&style=for-the-badge&logo=Power-BI&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Excel-217346?&style=for-the-badge&logo=MicrosoftExcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Microsoft_365-D83B01?&style=for-the-badge&logo=Microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Freshservice-2C5CC5?&style=for-the-badge"/>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-CompTIA_Security%2B_In_Progress-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white"/>
+
 </div>
 
+---
+
 ## Projects
-- Detection Lab
-- SOC Automation Project
+
+### FABA Web Application Security Assessment
+
+Performed a security assessment of a web application by evaluating authentication workflows, account registration, password recovery, and identity verification mechanisms. Documented security findings, assessed potential risks, and provided prioritized remediation recommendations to improve the application's security posture.
+
+**Skills Demonstrated**
+
+- Authentication Testing
+- Security Assessment
+- Risk Analysis
+- Technical Documentation
+- Identity Verification
+- Account Recovery Testing
