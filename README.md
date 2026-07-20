@@ -75,7 +75,7 @@ I'm pursuing a career in cybersecurity with interests in Cloud, Identity & Acces
 
 ## Projects
 
-### FABA Web Application Security Assessment
+### Web Application Security Assessment
 
 Performed a security assessment of a web application by evaluating authentication workflows, account registration, password recovery, and identity verification mechanisms. Documented security findings, assessed potential risks, and provided prioritized remediation recommendations to improve the application's security posture.
 
